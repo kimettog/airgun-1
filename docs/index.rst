@@ -4,7 +4,7 @@ AirGun
 AirGun is a Python library which is build over `Widgetastic`_ and `navmazing`_
 to make Satellite 6 UI testing easier.
 
-AirGun is written in Python 3 and do not plan to support Python 2. AirGun
+AirGun is written in Python 3. There is currently no plan to support Python 2. AirGun
 supports Satellite 6.4 and above and Foreman 1.17 and above (with vertical
 navigation).
 
